@@ -1,7 +1,6 @@
 # Dodge The Cars
 
 ## Description
-My First 2D Game Project
 Hey there, welcome to my first-ever personal project! I'm super excited to share with you the game I've been working on - a cool 2D adventure built with C++ and the amazing Simple DirectMedia Layer (SDL) library.
 
 ## Introduction
